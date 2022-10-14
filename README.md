@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js,Express.js and Mongodb**
 
-- 📫 How to reach me **prabalarora2001@gmail.com**
+- 📫 Reach me on **prabalarora2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
