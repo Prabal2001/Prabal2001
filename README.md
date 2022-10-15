@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal2001&label=Profile%20views&color=0e75b6&style=flat" alt="prabal2001" /> </p>
 
-- 🌱 I’m currently learning **Node.js,Express.js and Mongodb**
+- 🌱 I’m currently learning **Web Development and DSA**
 
 - Reach me **prabalarora2001@gmail.com**
 
